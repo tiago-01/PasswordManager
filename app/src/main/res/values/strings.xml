@@ -1,0 +1,11 @@
+
+
+<resources>
+    <string name="app_name">Password Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_word">App…</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">App not saved because it is empty.</string>
+    <string name="empty_not_deleted">App not deleted because it is empty.</string>
+    <string name="add_word">Add app</string>
+</resources>
